@@ -1,3 +1,4 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 Line added by another user on the remote repository. 
 2nd line added by another user on the remote repository.
+Line added locally in the working directory.
